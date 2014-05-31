@@ -1,4 +1,4 @@
-# generator-coffee-pot [![Build Status](https://secure.travis-ci.org/hermanya/generator-coffee-pot.png?branch=master)](https://travis-ci.org/hermanya/generator-coffee-pot.git)
+# generator-coffee-pot [![Build Status](https://secure.travis-ci.org/hermanya/generator-coffee-pot.png?branch=master)](https://travis-ci.org/hermanya/generator-coffee-pot)
 
 > [Yeoman](http://yeoman.io) generator
 
