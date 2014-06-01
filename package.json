@@ -20,7 +20,18 @@
     "app"
   ],
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "CoffeeScript",
+    "Coffee",
+    "Coffeeify",
+    "require",
+    "CSS",
+    "preprocessor",
+    "Stylus",
+    "SASS",
+    "simple",
+    "light",
+    "lite"
   ],
   "dependencies": {
     "yeoman-generator": "~0.16.0",
