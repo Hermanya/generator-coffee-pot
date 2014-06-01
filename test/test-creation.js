@@ -21,7 +21,7 @@ describe('coffee-pot generator', function () {
     var expected = [
       // add files you expect to exist here.
       'package.json',
-      '.coffeelint.json',
+      'coffeelint.json',
       'Gruntfile.coffee',
       'index.html',
       '.editorconfig'
