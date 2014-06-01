@@ -20,12 +20,15 @@ describe('coffee-pot generator', function () {
   it('creates expected files', function (done) {
     var expected = [
       // add files you expect to exist here.
-      '.jshintrc',
+      'package.json',
+      '.coffeelint.json',
+      'Gruntfile.coffee',
+      'index.html',
       '.editorconfig'
     ];
 
     helpers.mockPrompt(this.app, {
-      'someOption': true
+      'CSSpreprocessor': 'Stylus'
     });
     this.app.options['skip-install'] = true;
     this.app.run({}, function () {
