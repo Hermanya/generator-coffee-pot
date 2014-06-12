@@ -41,7 +41,7 @@ module.exports = (grunt) ->
         break;
       }%>
     coffeelint:
-      app: ['*.coffee']
+      app: ['**/*.coffee','*.coffee']
       options:
         configFile: 'coffeelint.json'
     coffeeify:
