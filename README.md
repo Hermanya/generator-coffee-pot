@@ -1,5 +1,7 @@
 # generator-coffee-pot [![Build Status](https://secure.travis-ci.org/hermanya/generator-coffee-pot.png?branch=master)](https://travis-ci.org/hermanya/generator-coffee-pot)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Hermanya/generator-coffee-pot.svg)](https://greenkeeper.io/)
+
 > [Yeoman](http://yeoman.io) generator
 
 
